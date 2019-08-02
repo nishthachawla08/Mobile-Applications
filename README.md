@@ -1,0 +1,2 @@
+# Mobile-Applications
+Energy consumption is an important quality parameter and it impacts the usability of the mobile app. I have performed a Literature Review to study, review and analyze numerous energy optimization techniques for the mobile apps. Also, I have attached the slide deck for the paper which I presented to my entire class and led the discussion on - " Automated Energy Optimization of HTTP Requests for Mobile Applications".
